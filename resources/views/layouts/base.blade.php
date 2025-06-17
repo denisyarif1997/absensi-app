@@ -10,7 +10,7 @@
     @include('partials.styles')
     @stack('style')
 
-    <title>{{ $title }} | Absensi App</title>
+    <title>{{ $title }} | Aplikasi Absensi Karyawaan</title>
 </head>
 
 <body>
